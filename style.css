@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #532267;
+  color: white;
+}
+
+.ico-size {
+  height: 1rem;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
