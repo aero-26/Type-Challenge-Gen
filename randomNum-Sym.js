@@ -103,7 +103,6 @@ const wordGen = function (arr) {
     return sentence.join(" ");
   } else if (arr === english) {
     const randomPassIndex = Math.trunc(Math.random() * english.length);
-    console.log(randomPassIndex);
     return english[randomPassIndex];
   }
 };
