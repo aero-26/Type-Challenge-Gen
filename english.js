@@ -198,4 +198,24 @@ const english = [
   `Anna spoke not only naturally and intelligently, but intelligently and casually, without attaching any value to her own thoughts, yet giving great value to the thoughts of the one she was talking to.`,
 
   `From 1955 to 1990, the value of Japanese real estate increased more than 75 times. By 1990, the total value of all Japanese property was estimated at nearly $20 trillion - equal to more than 20 percent of the entire world's wealth and about double the total value of the world's stock markets.`,
+
+  `Don't know much about history. Don't know much biology. Don't know much about a science book. Don't know much about the French I took. But I do know that I love you, and I know that if you love me too, what a wonderful world this would be.`,
+
+  `You are what you are and you are where you are because of what has gone into your mind. You change what you are and you change where you are by changing what goes into your mind.`,
+
+  `Don't tell me what's in, don't tell me how to write, don't tell me how to win this fight. It isn't your right, isn't your life, it isn't your right to take the only thing that's mine.`,
+
+  `There's no truth in the courtroom. There's just your version of what happened versus theirs. That's how the justice system works. It's not what's right and what's fair. It's who tells the most convincing story.`,
+
+  `Why is it that when one man builds a wall, the next man immediately needs to know what's on the other side?`,
+
+  `He was the type who wore his hair long enough to brush his shoulders, because he thought it took less effort. In reality it takes far more, but only if you do it right. He also thought it looked more impressive. But again, only if you do it right. Which he didn't.`,
+
+  `It's close to midnight, something evil's lurking in the dark. Under the moonlight you see a sight that almost stops your heart. You try to scream, but terror takes the sound before you make it. You start to freeze as horror looks you right between the eyes, you're paralyzed.`,
+
+  `A little bit of Monica in my life, a little bit of Erica by my side, a little bit of Rita's all I need, a little bit of Tina's what I see, a little bit of Sandra in the sun, a little bit of Mary all night long, a little bit of Jessica here I am, a little bit of you makes me your man.`,
+
+  `Have you ever sailed across an ocean, Donald, on a sail boat surrounded by sea with no land in sight, without even the possibility of sighting land for days to come, to stand at the helm of your destiny? I want that, one more time.`,
+
+  `From 1955 to 1990, the value of Japanese real estate increased more than 75 times. By 1990, the total value of all Japanese property was estimated at nearly $20 trillion - equal to more than 20 percent of the entire world's wealth and about double the total value of the world's stock markets.`,
 ];
