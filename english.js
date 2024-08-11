@@ -120,4 +120,82 @@ const english = [
   `Had dreams. Two of 'em. Both had my father. It's peculiar. I'm older now'n he ever was by twenty years. So in a sense he's the younger man. Anyway, first one I don't remember so well but it was about money and I think I lost it. The second one, it was like we was both back in older times and I was on horseback goin' through the mountains of a night. Goin' through this pass in the mountains. It was cold and snowin', hard ridin'. Hard country.`,
 
   `I see a line of cars and they're all painted black with flowers and my love, both never to come back. I see people turn their heads and quickly look away. Like a new born baby, it just happens every day.`,
+
+  `It is always important, I think, to be clear about what delights you: important, and more easily said than done, to know exactly what you'd do if you didn't have to do everything else.`,
+
+  `Look and think as far ahead as possible. Often, a driver's natural reaction is to look at the wall or the point you're just about to get to. That's not enough. You won't drive a smooth, flowing line if you don't look far ahead. Looking well ahead, and concentrating on getting to where I'm looking, seems to really help me.`,
+
+  `We don't need no education. We don't need no thought control. No dark sarcasm in the classroom - teachers leave them kids alone! All in all it's just another brick in the wall.`,
+
+  `You know I work all day to get you money to buy you things. And it's worth it just to hear you say you're going to give me everything. So why on earth should I moan, 'cause when I get you alone you know I feel okay.`,
+
+  `If there is a design or pattern on our china, we eat until we can see the design clearly. If you're on a diet, eat from plates with no design - or even better, from plain white china. Without the design present to influence you, you have less incentive to clean your plate.`,
+
+  `Why'd you come, you knew you should have stayed. I tried to warn you just to stay away. And now they're outside ready to bust. It looks like you might be one of us.`,
+
+  `I can always tell when you're lying. I also know that you cannot tell me why you do so. So there is no need to convince me, or wrap everything in lies, or try to take the blame on yourself like that. Because I have complete faith in you, Subaru-kun.`,
+
+  `There's a feeling I get when I look to the west and my spirit is crying for leaving. In my thoughts I have seen rings of smoke through the trees and the voices of those who stand looking.`,
+
+  `You just couldn't let me go, could you? This is what happens when an unstoppable force meets an immovable object. You are truly incorruptible, aren't you? Huh? You won't kill me out of some misplaced sense of self-righteousness. And I won't kill you because you're just too much fun. I think you and I are destined to do this forever.`,
+
+  `Your faith was strong but you needed proof. You saw her bathing on the roof. Her beauty in the moonlight overthrew you. She tied you to a kitchen chair, she broke your throne she cut your hair and from your lips she drew the hallelujah.`,
+
+  `When a child first catches adults out—when it first walks into his grave little head that adults do not always have divine intelligence, that their judgments are not always wise, their thinking true, their sentences just—his world falls into panic desolation. The gods are fallen and all safety gone. And there is one sure thing about the fall of gods: they do not fall a little; they crash and shatter or sink deeply into green muck. It is a tedious job to build them up again; they never quite shine. And the child’s world is never quite whole again. It is an aching kind of growing.`,
+
+  `The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.`,
+
+  `I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It’s when you know you’re licked before you begin but you begin anyway and you see it through no matter what.`,
+
+  `Hello babies. Welcome to Earth. It’s hot in the summer and cold in the winter. It’s round and wet and crowded. On the outside, babies, you’ve got a hundred years here. There’s only one rule that I know of, babies—’God damn it, you’ve got to be kind.`,
+
+  `And Lot’s wife, of course, was told not to look back where all those people and their homes had been. But she did look back, and I love her for that, because it was so human. So she was turned to a pillar of salt. So it goes. People aren’t supposed to look back. I’m certainly not going to do it anymore.`,
+
+  `So much the worse for those who fear wine, for it is because they have bad thoughts which they are afraid the liquor will extract from their hearts…The wicked are great drinkers of water; As the flood proved once for all.`,
+
+  `Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that’s no matter—tomorrow we will run faster, stretch out our arms farther…And then one fine morning—So we beat on, boats against the current, borne back ceaselessly into the past.`,
+
+  `I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.`,
+
+  `Only now is the child finally divested of all that he has been. His origins are become remote as is his destiny and not again in all the world’s turning will there be terrains so wild and barbarous to try whether the stuff of creation may be shaped to man’s will or whether his own heart is another kind of clay.`,
+
+  `His soul swooned slowly as he heard the snow falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead.`,
+
+  `If people bring so much courage to this world the world has to kill them to break them, so of course it kills them. The world breaks every one and afterward many are strong at the broken places. But those that will not break it kills. It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.`,
+
+  `I built this castle, now we are trapped on the throne. I'm sorry we're alone. I wrote my chapter, you'll turn the page when I'm gone. I hope you'll sing along, this is your song.`,
+
+  `Towards thee I roll, thou all-destroying but unconquering whale; to the last I grapple with thee; from hell’s heart I stab at thee; for hate’s sake I spit my last breath at thee.`,
+
+  `I wanted so badly to lie down next to her on the couch, to wrap my arms around her and sleep. Not fuck, like in those movies. Not even have sex. Just sleep together, in the most innocent sense of the phrase. But I lacked the courage and she had a boyfriend and I was gawky and she was gorgeous and I was hopelessly boring and she was endlessly fascinating. So I walked back to my room and collapsed on the bottom bunk, thinking that if people were rain, I was drizzle and she was a hurricane.`,
+
+  `We are all dying to give our lives away to something, maybe. God or Satan, politics or grammar, topology or philately – the object seemed incidental to this will to give ourselves away, utterly. To games or needles, to some other person. Something pathetic about it. A flight-from in the form of a plunging-into. Flight from exactly what? These rooms, blandly filled with excrement and heat? To what purpose?`,
+
+  `I always make offers with escape clauses. In real estate, I make an offer with language that details "subject-to" contingencies, such as the approval of a business partner. Never specify who the business partner is. Most people don't know that my partner is my cat.`,
+
+  `Picking up the pieces, half alive in a nine 'til five, vacant eyes, is it any wonder? Primal scream at the TV screen, close your eyes. Now the world is too much with me. Please leave, just go away. Before I lose my mind completely, just leave, please go now.`,
+
+  `And though my journeys did take me to a great many states, and covered a great many miles, at the very end of these food chains (which is to say, at the very beginning), I invariably found myself in almost exactly the same place: a farm field in the American Corn Belt.`,
+
+  `When he was just eleven years old, he got sick, and was forced to stay inside for an entire year. And in that year he began to worry that he hadn't lived enough. So he made up a story, of the great life he thought he wanted to live, which only made him forget the great life he already had. How he had filled a new home with light and joy and promise. How he met a girl, his neighbor, who felt all alone in the world, and made her feel okay again. And how, even when he was sick, he still gave his parents hope.`,
+
+  `The time has come for man to set himself a goal. The time has come for man to plant the seed of his highest hope. His soil is still rich enough. But one day this soil will be poor and domesticated, and no tall tree will be able to grow in it. Alas, the time is coming when man will no longer shoot the arrow of his longing beyond man, and the string of his bow will have forgotten how to whir.`,
+
+  `You only filled me with despair, by showing love that wasn't there. Just like the desert shows a thirsty man a green oasis when there's only sand, you lured me into something I should have dodged. Oh, the love I saw in you was just a mirage.`,
+
+  `But if in efficient causes it is possible to go on to infinity, there will be no first efficient cause, neither will there be an ultimate effect, nor any intermediate efficient causes; all of which is plainly false. Therefore it is necessary to admit a first efficient cause, to which everyone gives the name of God.`,
+
+  `I'd discovered, after a lot of extreme apprehension about what spoons to use, that if you do something incorrect at table with a certain arrogance, as if you knew perfectly well you were doing it properly, you can get away with it and nobody will think you are bad-mannered or poorly brought up. They will think you are original and very witty.`,
+
+  `She was a genius of sadness, immersing herself in it, separating its numerous strands, appreciating its subtle nuances. She was a prism through which sadness could be divided into its infinite spectrum. Brod discovered 613 sadnesses, each perfectly unique, each a singular emotion, no more similar to any other sadness than to anger, ecstasy, guilt, or frustration.`,
+
+  `The scent of pine is overwhelming as you enter the next room to find yourself in a forest full of evergreen trees. Only these trees are not green but bright and white, luminous in the darkness surrounding them.`,
+
+  `Every craft and every investigation, and likewise every action and decision, seems to aim at some good; hence the good has been well described as that at which everything aims. However, there is an apparent difference among the ends aimed at. For the end is sometimes an activity, sometimes a product beyond the activity; and when there is an end beyond the action, the product is by nature better than the activity.`,
+
+  `I must not fear. Fear is the mind killer. Fear is the little death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when my fear is gone I will turn and face fear's path, and only I will remain.`,
+
+  `Anna spoke not only naturally and intelligently, but intelligently and casually, without attaching any value to her own thoughts, yet giving great value to the thoughts of the one she was talking to.`,
+
+  `From 1955 to 1990, the value of Japanese real estate increased more than 75 times. By 1990, the total value of all Japanese property was estimated at nearly $20 trillion - equal to more than 20 percent of the entire world's wealth and about double the total value of the world's stock markets.`,
 ];

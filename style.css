@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #532267;
+  background-color: #1a1919;
   color: white;
 }
 
@@ -17,4 +17,9 @@ body {
 
 .hide {
   display: none;
+}
+
+.text-box {
+  background-color: #3e3d3d;
+  color: white;
 }
