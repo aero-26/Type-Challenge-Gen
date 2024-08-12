@@ -218,4 +218,84 @@ const english = [
   `Have you ever sailed across an ocean, Donald, on a sail boat surrounded by sea with no land in sight, without even the possibility of sighting land for days to come, to stand at the helm of your destiny? I want that, one more time.`,
 
   `From 1955 to 1990, the value of Japanese real estate increased more than 75 times. By 1990, the total value of all Japanese property was estimated at nearly $20 trillion - equal to more than 20 percent of the entire world's wealth and about double the total value of the world's stock markets.`,
+
+  `I think you're gonna find - when all this stuff is over and done - I think you're gonna find yourself one smiling guy. Thing is Butch, right now you got ability. But painful as it may be, ability don't last. Now that's a hard fact of life, but it's a fact of life you're gonna have to get realistic about.`,
+
+  `All the world used her ill, said this young misanthropist... and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get. The world is a looking-glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion; and so let all young persons take their choice.`,
+
+  `You boys are in so much trouble. I can't leave you alone for one second. I guess next time I go out, I'll have to chain you to the floor and tie you to the oven. You don't even pretend to listen. You might as well cut off your ears and throw them in the trash for as long as you use them. You are grounded for the next month!`,
+
+  `I'm so glad you came, I'm so glad you remembered, the walking through walls in the heart of December. The blindness of happiness, of falling down laughing, and I really believed that this time was forever.`,
+
+  `Mother used to say that however miserable one is, there's always something to be thankful for. And each morning, when the sky brightened and light began to flood my cell, I agreed with her.`,
+
+  `The longer you live, the more you fail. Failure is the mark of a life well lived. In turn, the only way to live without failure is to be of no use to anyone.`,
+
+  `Buddhism addresses two major types of meditation. Vipassana can be translated as "insight," a clear awareness of exactly what is happening as it happens. Samatha can be translated as "concentration" or "tranquility". It is a state in which the mind is brought to rest, focused only on one item and not allowed to wander.`,
+
+  `In 1969 four computers located around the country were in communication with each other through ARPANET. By the mid-1980s, the core of the network was in place, the communications protocols had been determined, and the Internet was live. By the early 1990s the first Internet language (http) was written and the first browser was published. The World Wide Web was born.`,
+
+  `All the blue light reflections that color my mind when I sleep. And the lovesick rejections that accompany the company I keep. All the razor perceptions that cut just a little too deep. Hey I can bleed as well as anyone, but I need someone to help me sleep.`,
+
+  `An important distinction is that rich people buy luxuries last, while the poor and middle class tend to buy luxuries first. The poor and the middle class often buy luxury items like big houses, diamonds, furs, jewelry, or boats because they want to look rich. They look rich, but in reality they just get deeper in debt on credit.`,
+
+  `Historian James C. Cobb has described southern identity as "not a story of continuity versus change, but continuity within change." Grits and fried chicken won't disappear, but perhaps future southerners will enjoy them with a side of rice noodles or enchilada sauce.`,
+
+  `You can build a prison of stone and steel, but you merely present the prisoner with a challenge. Any truly determined man will find a way out.`,
+
+  `Listen well, we are different than regular people because we are born with special powers. But that shouldn't give you the illusion that you're a special being. We are part of humanity. Besides our rare power, we are no different than them. People who run fast, people who can sing well, people who study hard, people who are funny, and people with psychic powers. Are we different from them? Having confidence in your strength is a good thing but do not get carried away. Our powers are a dangerous weapon.`,
+
+  `Now I'm the villain in your history. I was too young and blind to see. I should've known the world was wide enough for both Hamilton and me.`,
+
+  `He started running, up and up, until he hurled himself into the air. As he was falling face down, somehow all the years of training in martial arts at once possessed him. His body instinctively adjusted itself and even his arms spread out, swinging to ensure that he wouldn't hurt himself fatally. With a thump his feet landed on the ground.`,
+
+  `One day you're in a funk about things, telling a friend that years of evidence point to the conclusion that you will be single for the rest of your life. That night you meet someone, and a year later you're engaged to be married. That this very scenario happened to me is likely of little comfort to those still wondering about their future.`,
+
+  `The Machine only gives us numbers because I would always rather that a human element remain in determining something so critical as someone's fate. We have free will, and with that comes great responsibility, and sometimes great loss.`,
+
+  `All of me, why not take all of me? Can't you see? I'm no good without you. Take my lips, I want to lose them. Take my arms, I'll never use them. Your goodbye left me with eyes that cry. How can I go on, dear, without you? You took the part that once was my heart, so why not take all of me?`,
+
+  `The term "barbarian" was created by the Greeks; it was originally used to denote any foreigner. Since then it has gained a more negative connotation, and it is commonly applied to civilizations deemed "inferior" to one's own.`,
+
+  `Aztec rule was based upon a system of tribute and fear over the surrounding peoples; every year, they were forced to pay the Aztecs money, goods, and a supply of captives to be sacrificed on the altar. Taking advantage of this resentment of their Aztec overlords, the tiny Spanish force was able to attract a massive army of some 30,000 Mesoamericans of many different tribes.`,
+
+  `For one who contradicts emptiness there would be nothing that ought to be done; activity would be uninitiated and an agent would be non-acting.`,
+
+  `Every moment can't remain and every life won't stay the same. With time comes a layer of rust and our bones will turn to dust. Everyone will fall away and every season is built on change. With time the paint will peel and all sense will lose its feel. Every cloth will start to fray and every night will become day. With time a mold will form and what's cold can become warm. Love can't always stay and the dead will soon decay. With time we'll all be gone but how you lived can live on.`,
+
+  `I still think about the letter you asked me to write. It nags at me, even though you're gone and there's no one to give it to anymore. Sometimes I work on it in my head, trying to map out the story you asked me to tell, about everything that happened this past fall and winter. It's all still there, like a movie I can watch when I want to. Which is never.`,
+
+  `If you come to a river and find a boat at the edge, you will use that boat and it will serve you well, but once across the river, do you put the boat on your shoulders and carry it with you on the rest of your journey?`,
+
+  `They say that right after God created man, he took a rib from him and made a chick. That's actually a bit of a creation myth - the truth is, after God saw that man was good, he created another man and saw that it was all good.`,
+
+  `Life is a storm, my young friend. You will bask in the sunlight one moment, be shattered on the rocks the next. What makes you a man is what you do when that storm comes. You must look into that storm and shout as you did in Rome. Do your worst, for I will do mine! Then the fates will know you as we know you.`,
+
+  `Cause this is thriller, thriller night. And no one's gonna save you from the beast about to strike. You know it's thriller, thriller night. You're fighting for your life inside a killer, thriller tonight.`,
+
+  `And fesenjoon is a hard food to love at first. It kind of looks like mud. Worse than mud, even: it looks like the sort of primordial goo that could generate new amino acids, which would inevitably combine to initiate protein synthesis and create brand new life forms.`,
+
+  `The time has come for man to set himself a goal. The time has come for man to plant the seed of his highest hope. His soil is still rich enough. But one day this soil will be poor and domesticated, and no tall tree will be able to grow in it. Alas, the time is coming when man will no longer shoot the arrow of his longing beyond man, and the string of his bow will have forgotten how to whir.`,
+
+  `Every day I searched for new songs, and it was like applying for asylum. I just needed someone to help me escape from all the silence. I just needed people saying words about all the things that hurt them. And maybe this is why Papi stopped listening to music, because it can make your body want to rebel. To speak up. And even that young I learned music can become a bridge between you and a total stranger.`,
+
+  `We've had vicious kings and we've had idiot kings, but I don't know if we've ever been cursed with a vicious idiot for a king!`,
+
+  `Around midafternoon, the snow thinned into sleet, and some umbrellas appeared on Kissena Boulevard. When the green lights came on, pedestrians skirted or jumped across the puddles gathering at the curbs.`,
+
+  `Having endured the racial turmoil of the Civil Rights Movement without the overt violent conflict that haunted some of its southern neighbors, Atlanta was a city obsessed with economic progress. Just as editor Henry Grady had looked north for investment and support in the wake of the Civil War, the city's newest generation of boosters saw international dollars as the future for Atlanta.`,
+
+  `Wake up princess, I'm tired of your useless ideals. It's gotten pathetic. What good are your happy ideals if you can't do anything to make them a reality? They're nothing but dreams, and your dreams don't stand a chance.`,
+
+  `But this rough magic I here abjure, and when I have required some heavenly music, which even now I do, to work mine end upon their senses that this airy charm is for, I'll break my staff, bury it certain fathoms in the earth, and deeper than did ever plummet sound I'll drown my book.`,
+
+  `I see trees of green, red roses too, I see them bloom for me and you, and I think to myself what a wonderful world. I see skies of blue and clouds of white, the bright blessed day, the dark sacred night, and I think to myself what a wonderful world.`,
+
+  `I feel his presence. But he can also feel mine. He's come for me. He can feel it when I'm near. That's why I have to go. As long as I stay, I'm endangering the group and our mission. I have to face him.`,
+
+  `In any war, there are calms between storms. There will be days when we lose faith, days when our allies turn against us. But the day will never come that we forsake this planet and its people.`,
+
+  `There are some fights you just can't win. A force can be so overwhelming that no tactical approach in a fight is going to lead to a victory worth having. When you can't win in a fight, sometimes you have to settle for making sure that if you lose, everyone loses. It works for nuclear weapons, it works for me.`,
+
+  `She dreams of 1969 before the soldiers came. The life was cheap on bread and wine and sharing meant no shame. She is awakened by the screams of rockets flying from nearby, and scared she clings onto her dreams to beat the fear that she might die.`,
 ];
