@@ -298,4 +298,24 @@ const english = [
   `There are some fights you just can't win. A force can be so overwhelming that no tactical approach in a fight is going to lead to a victory worth having. When you can't win in a fight, sometimes you have to settle for making sure that if you lose, everyone loses. It works for nuclear weapons, it works for me.`,
 
   `She dreams of 1969 before the soldiers came. The life was cheap on bread and wine and sharing meant no shame. She is awakened by the screams of rockets flying from nearby, and scared she clings onto her dreams to beat the fear that she might die.`,
+
+  `Radiation could be precisely determined, in principle, if we knew the reflectance of mozzarella and the cardboard in the long-wavelength regions of interest. The process is clearly governed by the Stefan-Boltzmann fourth power radiation law. Here, the oregano and other trace materials sitting on the surface might be of some importance if they changed the surface radiance in any appreciable way.`,
+
+  `And it's whispered that soon, if we all call the tune, then the piper will lead us to reason and a new day will dawn for those who stand long and the forests will echo with laughter.`,
+
+  `Your inner child will be happy to know that when it comes to wine, it's okay to like some colors more than others. You can't get away with saying "I don't like green food!" much beyond your sixth birthday, but you can express a general preference for white, red, or pink wine for all your adult life.`,
+
+  `Remembering you running soft through the night. You were bigger and brighter and whiter than snow. And screamed at the make-believe, screamed at the sky, and you finally found all your courage to let it all go.`,
+
+  `The great edifice of variety and choice that is an American supermarket turns out to rest on a remarkably narrow biological foundation comprised of a tiny group of plants that is dominated by a single species: Zea mays, the giant tropical grass most Americans know as corn.`,
+
+  `I say I live in Rosemead, really, I'm at the Ramada. It doesn't really matter, doesn't really, really matter.`,
+
+  `I see in your eyes the same fear that would take the heart of me. A day may come when the courage of men fails, when we forsake our friends and break all bonds of fellowship, but it is not this day. An hour of woes and shattered shields, when the age of men comes crashing down! But it is not this day! This day we fight!`,
+
+  `Owning a twelve-foot ladder in New York is a probable sign of success, as it means you most likely have enough room to store one.`,
+
+  `Pulp: 1. A soft, moist, shapeless mass or matter. 2. A magazine or book containing lurid subject matter and being characteristically printed on rough, unfinished paper.`,
+
+  `There was a stage and a PA up in western Massachusetts and the kids came from miles around to get messed up on the music. And she drove down from Bowdoin with a carload of girlfriends, to meet some boys and maybe eat some mushrooms. And they did, and she got sick, and now she's pinned and way too shaky.`,
 ];
