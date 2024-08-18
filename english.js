@@ -368,4 +368,40 @@ const english = [
   `You've no right to starve people, to punish them for no reason. No right to take away their life and freedom. Those are things everyone is born with, and they're not yours for the taking. Winning a war doesn't give you that right. Having more weapons doesn't give you that right. Being from the Capitol doesn't give you that right. Nothing does.`,
 
   `But for now, let him sleep. For in dreams, we enter a world that's entirely our own. Let them swim in the deepest ocean, or glide over the highest cloud.`,
+
+  `He doesn't realize he's already part of The Neverending Story. Just as he is sharing your adventures, others are sharing his. They were with him when he hid from the boys in the bookstore. They were with him when he took the book with the Auryn symbol on the cover, in which he's reading his own story, right now.`,
+
+  `Numerous studies have shown similar results. Radiologists have failed to recognize the presence of lung disease in about 30 percent of the X-ray plates they read, despite the clear presence of the disease on the X-ray film. Another experiment proved that professional staffs in psychiatric hospitals could not tell the sane from the insane. The point is that we should not take for granted the reliability and accuracy of any judge, no matter how expert.`,
+
+  `Look and think as far ahead as possible. Often, a driver's natural reaction is to look at the wall or the point you're just about to get to. That's not enough. You won't drive a smooth, flowing line if you don't look far ahead. Looking well ahead, and concentrating on getting to where I'm looking, seems to really help me.`,
+
+  `You know, Doc, when something happens, it can leave a trace of itself behind. Say like if someone burns toast. Well, maybe things that happen leave other kind of traces behind. Not things that anyone can notice, but things that people who shine can see. Just like they can see things that haven't happened yet, well, sometimes they can see things that happened a long time ago. I think a lot of things happened right here in this particular hotel over the years, and not all of 'em was good.`,
+
+  `There's a hole in the world like a great black pit. And the vermin of the world inhabit it. And its morals aren't worth what a pig could spit. And it goes by the name of London.`,
+
+  `She did not tell them to clean up their lives, or go and sin no more. She did not tell them they were the blessed of the earth, its inheriting meek, or its glory-bound pure. She told them that the only grace they could have is the grace they could imagine. That if they could not see it, they could not have it.`,
+
+  `Where there is an emptiness, the mind will obligingly fill it up. Fear is always at hand to supply any vacancies, as is curiosity. I have had ample experience with both.`,
+
+  `Historian James C. Cobb has described southern identity as "not a story of continuity versus change, but continuity within change." Grits and fried chicken won't disappear, but perhaps future southerners will enjoy them with a side of rice noodles or enchilada sauce.`,
+
+  `Technique is just a means to an end, and that end is making music without having to think about technique. If you're thinking about technique on the gig, you'll sound that way to the audience. If you're playing from the heart, you'll sound like you're expressing yourself openly.`,
+
+  `I wanna live the stories I write, see the whole world with my own eyes, take the unknown trail and hear the songs the night sings. I wanna feel the flame when it burns, wanna feel the pain when it hurts, take the unknown trail and hear the songs the night sings.`,
+
+  `After the grapes are crushed, yeasts (tiny one-celled organisms that exist naturally in the vineyard and, therefore, on the grapes) come into contact with the sugar in the grapes' juice and gradually convert that sugar into alcohol.`,
+
+  `Our world requires that decisions be sourced and footnoted, and if we say how we feel, we must also be prepared to elaborate on why we feel that way. I think that approach is a mistake, and if we are to learn to improve the quality of the decisions we make, we need to accept the mysterious nature of our snap judgments. We need to respect the fact that it is possible to know without knowing why we know and accept that - sometimes - we're better off that way.`,
+
+  `Okay, you got me. I sometimes hide behind other people's words. For one thing, I know nothing about love. I keep my head down, I'm a simple guy. Which is to say, if I knew what love was, I would quote myself.`,
+
+  `You just couldn't let me go, could you? This is what happens when an unstoppable force meets an immovable object. You are truly incorruptible, aren't you? Huh? You won't kill me out of some misplaced sense of self-righteousness. And I won't kill you because you're just too much fun. I think you and I are destined to do this forever.`,
+
+  `Historically, most wines contained less than 14 percent alcohol - either because there wasn't enough sugar in the juice to attain a higher alcohol level, or because the yeasts died off when the alcohol reached 14 percent, halting the fermentation.`,
+
+  `After removal from the oven, the pizza is sliced and plated quickly in a flat cardboard box, which is immediately closed and often taped shut. There is no physical separation after the slicing, so that edge can be ignored and we can treat the pizza, for thermal purposes, as an infinite plane.`,
+
+  `For it is said that humans are never satisfied, that you give them one thing and they want something more. And this is said in disparagement, whereas it is one of the greatest talents the species has and one that has made it superior to animals that are satisfied with what they have.`,
+
+  `I've been thinking lots about my life and how quick I'd wash it down the drain. Past tense, the future, nothing matters now. I act on my own and I'm to blame. Living's a wicked dream, where things turn out all wrong. We're all so weak, no matter how strong.`,
 ];
