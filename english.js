@@ -318,4 +318,54 @@ const english = [
   `Pulp: 1. A soft, moist, shapeless mass or matter. 2. A magazine or book containing lurid subject matter and being characteristically printed on rough, unfinished paper.`,
 
   `There was a stage and a PA up in western Massachusetts and the kids came from miles around to get messed up on the music. And she drove down from Bowdoin with a carload of girlfriends, to meet some boys and maybe eat some mushrooms. And they did, and she got sick, and now she's pinned and way too shaky.`,
+
+  `Never give up, no matter how far behind you are, no matter how unlikely it seems you will catch your competitor in front of you. Keep pushing until the checkered flag falls. How many times have you seen the leader of a race have a mechanical problem with only a few laps to go? You will never be able to take advantage of their problems if you are not close. You have to be close to take advantage of luck.`,
+
+  `I can already hear your tune calling me across the room. When the world and his wife are on my back again, not enough pleasure too much pain. When the world is too much with me, please leave, just go away. Before I lose my mind completely, please leave, just go now. In the sidestreet something's moving look around, look around. All around you walls are tumbling down. Stop staring at the ground.`,
+
+  `That fear had been inside him for many years, it had lived with him, it had been another shadow ever since the night he awoke, shaken by a bad dream, and realized that death was not only a permanent probability, as he has always believed, but an immediate reality.`,
+
+  `It may seem quite novelistic to you, and I am willing to agree, but only on the condition that you refrain from reading such notions as "fictive", "fabricated", and "untrue to life" in the word "novelistic". Because human lives are composed in precisely such a fashion.`,
+
+  `I don't want tickets, I need you to find me a painting, a classic, been nicked out of Lenny's house. And since you got more feet on the street than coppers on the beat, I'd like you to assist. I'll leave you a little livener. There's a large twenty to get some tongues wagging.`,
+
+  `Today, computers have taken this ancient art out of the craftsman's workshop and placed it on the desktop. Desktop publishing revolutionized the creation of printed documents, not only from the standpoint of speed and accuracy, but also by enabling anyone to mass-produce the printed word without investing the many years it takes to learn the trade.`,
+
+  `A total of twenty-five friends were headed from San Francisco across the Sierra toward our rendezvous in the Black Rock Desert that day. Significantly absent among them was Julia, my girlfriend at the time. We were all in our late twenties or early-to-middle thirties, yet none had found brides or husbands. Although we were all older than our parents were when they had us, the idea of having children ourselves still seemed a far-off abstraction.`,
+
+  `The boy had a way with words, he sang, he moved with grace. He entertained so naturally, no gesture out of place. His road in life was clearly drawn, he didn't hesitate. He played, they saw, he conquered as the master of his fate.`,
+
+  `For as long as a single man is forced to cower under the iron fist of oppression, as long as a child cries out in the night, or an actor can be elected president, we must continue the struggle.`,
+
+  `I've heard there was a secret chord that David played, and it pleased the Lord, but you don't really care for music, do you? It goes like this: the fourth, the fifth, the minor fall, the major lift. The baffled king composing hallelujah.`,
+
+  `You must learn to trust your creative mechanism to do its work and not "jam it" by becoming too concerned or too anxious as to whether it will work or not, or by attempting to force it by too much conscious effort. You must "let it" work, rather than "make it" work. This trust is necessary because your creative mechanism operates below the level of consciousness, and you cannot "know" what is going on beneath the surface. Moreover, its nature is to operate spontaneously according to present need. Therefore, you have no guarantees in advance. It comes into operation as you act and as you place a demand upon it by your actions. You must not wait to act until you have proof - you must act as if it is there, and it will come through.`,
+
+  `Once you get into the processed foods you have to be a fairly determined ecological detective to follow the intricate and increasingly obscure lines of connection linking the Twinkie, or the nondairy creamer, to a plant growing in the earth some place, but it can be done.`,
+
+  `The truth is like a puzzle broken into pieces here and there, so we cannot see the full picture. When we find out something's not true, the truth sends us a small signal to try looking again. That's what we call doubt. The small pieces that doesn't suit the perfect looking truth; doubt. The moment you shut out that doubt, the real truth is hidden by that image.`,
+
+  `So, I'm tending bar there at Ecklund & Swedlin's last Tuesday and this little guy's drinking and he says, "So where can a guy find some action - I'm goin' crazy down there at the lake." And I says, "What kinda action?" and he says, "Woman action, what do I look like?" And I says, "Well, what do I look like? I don't arrange that kinda thing."`,
+
+  `Corn is what feeds the steer that becomes the steak. Corn feeds the chicken and the pig, the turkey and the lamb, the catfish and the tilapia and, increasingly, even the salmon, a carnivore by nature that the fish farmers are reengineering to tolerate corn. The eggs are made of corn. The milk and cheese and yogurt, which once came from dairy cows that grazed on grass, now typically come from cows that spend their working lives indoors tethered to machines, eating corn.`,
+
+  `But what leaves us out of breath the most isn't the moments spent on a bed too small for two but the expense of our hearts by the labor of our bodies. I guess that two float around the point. But I wanna say it's more than just those moments, at least more than the surface. It's the tempo within those seconds where time seems to slow to a crawl and I can't help but fall into the rhythm of your skin and your shaking breath and I sink into the warmest dreams and the softest skin.`,
+
+  `I'm alive in a city in a country of the world. And I want to go on living, I want to see my life unfold. You know it's hard to go on looking at the stories of our day and the dangers we're all facing growing worse in every way. And you would think with all of the genius and the brilliance of these times, we might find a higher purpose and a better use of mind.`,
+
+  `We often believe the more we practice a skill or technique - over and over again, many times - the better we'll get. This is not necessarily true. In fact, every time you practice a technique incorrectly, you're increasing your chances of doing it wrong again. It's easy to become very experienced at repeating the same mistakes. Practice doesn't make perfect; only perfect practice makes perfect.`,
+
+  `Every time people try to punish the rich, the rich don't simply comply. They react. They have the money, power, and intent to change things. They don't just sit there and voluntarily pay more taxes. Instead, they search for ways to minimize their tax burden. They hire smart attorneys and accountants, and persuade politicians to change laws or create legal loopholes. They use their resources to effect change.`,
+
+  `I walk this empty street, on the Boulevard of Broken Dreams. When the city sleeps, and I'm the only one and I walk alone.`,
+
+  `We live in a charmed world. If we have money we can buy literally everything. And the majority of us live lifestyles undreamed of only a generation or two ago. One scientist I met recently told me he reckoned that the average household in Europe or North America has so many devices and such a variety of food and clothing that to produce the same lifestyle in Roman times would have required six thousand slaves.``Punishment and negative reinforcement are opposites. Punishment is when something bad happens to you because of something you did; negative reinforcement is when something bad stops happening to you, or doesn't start happening to you in the first place, because of something you did. Punishment is bad, and negative reinforcement is good.`,
+
+  `I exist. In thousands of agonies - I exist. I'm tormented on the rack - but I exist! Though I sit alone in a pillar - I exist! I see the sun, and if I don't see the sun, I know it's there. And there's a whole life in that, in knowing that the sun is there.`,
+
+  `I don't need to try to control you. Look into my eyes and I'll own you, with the moves like Jagger. I've got the moves like Jagger. I've got the moves like Jagger.`,
+
+  `You've no right to starve people, to punish them for no reason. No right to take away their life and freedom. Those are things everyone is born with, and they're not yours for the taking. Winning a war doesn't give you that right. Having more weapons doesn't give you that right. Being from the Capitol doesn't give you that right. Nothing does.`,
+
+  `But for now, let him sleep. For in dreams, we enter a world that's entirely our own. Let them swim in the deepest ocean, or glide over the highest cloud.`,
 ];
