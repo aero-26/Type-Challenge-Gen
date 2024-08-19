@@ -359,7 +359,9 @@ const english = [
 
   `I walk this empty street, on the Boulevard of Broken Dreams. When the city sleeps, and I'm the only one and I walk alone.`,
 
-  `We live in a charmed world. If we have money we can buy literally everything. And the majority of us live lifestyles undreamed of only a generation or two ago. One scientist I met recently told me he reckoned that the average household in Europe or North America has so many devices and such a variety of food and clothing that to produce the same lifestyle in Roman times would have required six thousand slaves.``Punishment and negative reinforcement are opposites. Punishment is when something bad happens to you because of something you did; negative reinforcement is when something bad stops happening to you, or doesn't start happening to you in the first place, because of something you did. Punishment is bad, and negative reinforcement is good.`,
+  `We live in a charmed world. If we have money we can buy literally everything. And the majority of us live lifestyles undreamed of only a generation or two ago. One scientist I met recently told me he reckoned that the average household in Europe or North America has so many devices and such a variety of food and clothing that to produce the same lifestyle in Roman times would have required six thousand slaves.`,
+
+  `Punishment and negative reinforcement are opposites. Punishment is when something bad happens to you because of something you did; negative reinforcement is when something bad stops happening to you, or doesn't start happening to you in the first place, because of something you did. Punishment is bad, and negative reinforcement is good.`,
 
   `I exist. In thousands of agonies - I exist. I'm tormented on the rack - but I exist! Though I sit alone in a pillar - I exist! I see the sun, and if I don't see the sun, I know it's there. And there's a whole life in that, in knowing that the sun is there.`,
 
