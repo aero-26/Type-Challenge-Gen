@@ -438,4 +438,30 @@ const english = [
   `I sometimes think the worst thing a young person can feel is when you find no answer to the question of what you are supposed to do with this life you've been given. I can now say that another version of that happens in old age, when it occurs to you that since you've lived this long you must have learned something, so you open your eyes before dawn and think: What is it that I've learned, what is it I want to say?`,
 
   `And I don't believe in the existence of angels but looking at you I wonder if that's true. But if I did I would summon them together, and ask them to watch over you. To each burn a candle for you, to make bright and clear your path. And to walk, like Christ, in grace and love and guide you into my arms.`,
+
+  `Numerous studies have shown similar results. Radiologists have failed to recognize the presence of lung disease in about 30 percent of the X-ray plates they read, despite the clear presence of the disease on the X-ray film. Another experiment proved that professional staffs in psychiatric hospitals could not tell the sane from the insane. The point is that we should not take for granted the reliability and accuracy of any judge, no matter how expert.`,
+
+  `Following a dream I had three years ago, I have become deeply moved by the plight of the Tibetan people, and have been filled with a desire to help them. I also awoke from the same dream realizing that I had subconsciously gained knowledge of a deductive technique, involving mind-body coordination operating hand-in-hand with the deepest level of intuition.`,
+
+  `Samatha is a state in which the mind is brought to rest, focused only on one item and not allowed to wander. When this is done, a deep calm pervades body and mind, a state of tranquility which must be experienced to be understood.`,
+
+  `Alfred Hitchcock once said, "Drama is life with the dull bits cut out." If he'd been alive during ancient times, he might have uttered these same words when facing a play from Euripides. Reflecting the interesting (and often) tragic parts of "life" on the stage was an important part of the ancient world, and helped to shape our modern culture.`,
+
+  `The development of a living body of literature became indicative of an advanced culture and are always correlated with advances in science, philosophy, theology, and art. Unfortunately the loss of many libraries, such as the Great Library of Alexandria in a civil war in the 3rd century AD, also heralded the loss of many of these irreplaceable texts.`,
+
+  `You and I can share the silence, finding comfort together the way old friends do. And after fights and words of violence, we make up with each other the way old friends do. Times of joy and times of sorrow, we will always see it through. Oh, I don't care what comes tomorrow, we can face it together the way old friends do.`,
+
+  `Always do your best - your best is going to change from moment to moment; it will be different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgment, self-abuse and regret.`,
+
+  `I like them, I like them! I liked them first! Before I even met them I liked them! As soon as I met them I liked them right away! You hate them compared to how much I like them!`,
+
+  `One can't understand everything at once, we can't begin with perfection all at once! In order to reach perfection one must begin by being ignorant of a great deal. And if we understand things too quickly, perhaps we shan't understand them thoroughly.`,
+
+  `Achilles will never overtake the tortoise. He must first reach the place from which the tortoise started. By that time the tortoise will have got some way ahead. Achilles must then make up that, and again the tortoise will be ahead. He is always coming nearer, but he never makes up to it.`,
+
+  `There is no magic, merely the proper application of universal forces.`,
+
+  `If they say, who cares if one more light goes out in a sky of a million stars? It flickers, flickers. Who cares when someone's time runs out if a moment is all we are. We're quicker, quicker. Who cares if one more light goes out? Well, I do.`,
+
+  `We don't get to choose our time. Death is what gives life meaning. To know your days are numbered. Your time is short. You'd think after all this time, I'd be ready. But look at me. Stretching one moment out into a thousand... just so that I can watch the snow.`,
 ];
