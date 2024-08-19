@@ -404,4 +404,36 @@ const english = [
   `For it is said that humans are never satisfied, that you give them one thing and they want something more. And this is said in disparagement, whereas it is one of the greatest talents the species has and one that has made it superior to animals that are satisfied with what they have.`,
 
   `I've been thinking lots about my life and how quick I'd wash it down the drain. Past tense, the future, nothing matters now. I act on my own and I'm to blame. Living's a wicked dream, where things turn out all wrong. We're all so weak, no matter how strong.`,
+
+  `Imagine this: Here we are, a plane full of grown human beings, many of us partially educated, and they're actually taking time out to describe the intricate workings of a belt buckle. Well, I ask for clarification at that point. Did you say 'Place the small metal flap into the buckle' or 'Place the buckle over and around the small metal flap'?`,
+
+  `We rendezvous with Rochambeau, consolidate their gifts. We can end this war at Yorktown, cut them off at sea; but for this to succeed, there is someone else we need.`,
+
+  `If I ruled the world, every man would see the world was his friend. There'd be happiness that no man could end, no my friend, not if I ruled the world. Every hand would be held up high, there'd be sunshine in everyone's sky.`,
+
+  `I've been looking so long at these pictures of you that I almost believe that they're real. I've been living so long with my pictures of you that I almost believe that the pictures are all I can feel.`,
+
+  `The sun, the moon, the stars, shine less brightly with you so far. I never knew sorrow 'til you asked me to follow my heart. For all the tales I've told and these whispers of silver and gold. I'd throw them all away to gaze on your face once more.`,
+
+  `I put a spatially tessellated void inside a modified temporal field until a planet developed intelligent life. I then introduced that life to the wonders of electricity, which they now generate on a global scale. And, you know, some of it goes to power my engine and charge my phone and stuff.`,
+
+  `The boy had a way with words, he sang, he moved with grace. He entertained so naturally, no gesture out of place. His road in life was clearly drawn, he didn't hesitate. He played, they saw, he conquered as the master of his fate.`,
+
+  `Come sail your ships around me and burn your bridges down. We make a little history, baby, every time you come around. Come loose your dogs upon me and let your hair hang down. You are a little mystery to me every time you come around. We talk about it all night long, we define our moral ground. But when I crawl into your arms everything comes tumbling down.`,
+
+  `Music finds a comfortable parallel with that of human language. Much as language has words, sentences, and stories, music has tones, melodies, and songs.`,
+
+  `So it was that over the course of time, the man and the weapon seemed as one. Ashbringer became a name of legend, attributed not just to the fearsome blade but also to the relentless knight who wielded it.`,
+
+  `What you gonna do with your man there? You're always gonna have problems lifting a body in one piece. Apparently the best thing to do is cut the corpse up into six pieces and pile it all together. After you got six pieces you gotta get rid of 'em, of course you can't leave it in the deep freeze for your mum to discover, can ya?`,
+
+  `Listen well, we are different than regular people because we are born with special powers. But that shouldn't give you the illusion that you're a special being. We are part of humanity. Besides our rare power, we are no different than them. People who run fast, people who can sing well, people who study hard, people who are funny, and people with psychic powers. Are we different from them? Having confidence in your strength is a good thing but do not get carried away. Our powers are a dangerous weapon.`,
+
+  `You know, I believe if there's any kind of God it wouldn't be in any of us, not you or me but just this little space in between. If there's any kind of magic in this world it must be in the attempt of understanding someone, sharing something. I know, it's almost impossible to succeed but who cares really? The answer must be in the attempt.`,
+
+  `They say that right after God created man, he took a rib from him and made a chick. That's actually a bit of a creation myth - the truth is, after God saw that man was good, he created another man and saw that it was all good.`,
+
+  `I sometimes think the worst thing a young person can feel is when you find no answer to the question of what you are supposed to do with this life you've been given. I can now say that another version of that happens in old age, when it occurs to you that since you've lived this long you must have learned something, so you open your eyes before dawn and think: What is it that I've learned, what is it I want to say?`,
+
+  `And I don't believe in the existence of angels but looking at you I wonder if that's true. But if I did I would summon them together, and ask them to watch over you. To each burn a candle for you, to make bright and clear your path. And to walk, like Christ, in grace and love and guide you into my arms.`,
 ];
