@@ -464,4 +464,100 @@ const english = [
   `If they say, who cares if one more light goes out in a sky of a million stars? It flickers, flickers. Who cares when someone's time runs out if a moment is all we are. We're quicker, quicker. Who cares if one more light goes out? Well, I do.`,
 
   `We don't get to choose our time. Death is what gives life meaning. To know your days are numbered. Your time is short. You'd think after all this time, I'd be ready. But look at me. Stretching one moment out into a thousand... just so that I can watch the snow.`,
+
+  `From the Kentucky coal mine to the California sun, there Bobby shared the secrets of my soul.`,
+
+  `When this kind of fire starts, it is very hard to put out. The tender boughs of innocence burn first, and the wind rises, and then all goodness is in jeopardy.`,
+
+  `She was a genius of sadness, immersing herself in it, separating its numerous strands, appreciating its subtle nuances. She was a prism through which sadness could be divided into its infinite spectrum. Brod discovered 613 sadnesses, each perfectly unique, each a singular emotion, no more similar to any other sadness than to anger, ecstasy, guilt, or frustration.`,
+
+  `Glancing through the 1977 Atlanta Yellow Pages reveals a city that had yet to be transformed by the proliferation of ethnic food: only ninety-two out of approximately fifteen hundred restaurants could be classified as non-American.`,
+
+  `Still, there are times I am bewildered by each mile I have traveled, each meal I have eaten, each person I have known, each room in which I have slept. As ordinary as it all appears, there are times when it is beyond my imagination.`,
+
+  `So I go about my day as normal. But I can't seem to pass it off as just a random event. It consumes me. I thought I was moving on, but I guess I was just switching off. And now I see my life as the banal slog it instantly became. And I don't know if I can go on the same. But I don't wanna dig up old bones. I mean, I don't even know if she has the same phone number. Who knows? Maybe she does.`,
+
+  `Ah how shameless - the way these mortals blame the gods. From us alone, they say, come all their miseries, yes, but they themselves, with their own reckless ways, compound their pains beyond their proper share.`,
+
+  `When the light of life has gone, no change for the meter. Then the king of spivs will come, selling blood by the litre. When nothing's sacred anymore, when the demon's knocking on your door, you'll still be staring down at the floor.`,
+
+  `There's a piece of Maria in every song that I sing. And the price of a memory is the memory of the sorrow it brings. And there is always one last light to turn out and one last bell to ring. And the last one out of the circus has to lock up everything.`,
+
+  `We live in a charmed world. If we have money we can buy literally everything. And the majority of us live lifestyles undreamed of only a generation or two ago. One scientist I met recently told me he reckoned that the average household in Europe or North America has so many devices and such a variety of food and clothing that to produce the same lifestyle in Roman times would have required six thousand slaves.`,
+
+  `It's been a long day without you, my friend, and I'll tell you all about it when I see you again. We've come a long way from where we began.`,
+
+  `Is this the real life? Is this just fantasy? Caught in a landslide, no escape from reality. Open your eyes, look up to the skies and see. I'm just a poor boy, I need no sympathy. Because I'm easy come, easy go, little high, little low. Any way the wind blows doesn't really matter to me.`,
+
+  `Although his voice was also broken by uncertainty and his hands seemed to doubt the existence of things, it was evident that he came from the world where men could still sleep and remember.`,
+
+  `Corn is what feeds the steer that becomes the steak. Corn feeds the chicken and the pig, the turkey and the lamb, the catfish and the tilapia and, increasingly, even the salmon, a carnivore by nature that the fish farmers are reengineering to tolerate corn. The eggs are made of corn. The milk and cheese and yogurt, which once came from dairy cows that grazed on grass, now typically come from cows that spend their working lives indoors tethered to machines, eating corn.`,
+
+  `This was the most delicious meal he'd had in recent years, and he picked up the shrimp and scallops one after another and swallowed them as if they did not require chewing. The snow peas were crisp, the bamboo shoots crunchy, and the portabella mushrooms succulent, perfectly done.`,
+
+  `The wave returns to the ocean. What the ocean does with the water after that is anyone's guess. But as a very wise not-robot once told me, true joy is in the mystery.`,
+
+  `If they say, who cares if one more light goes out in a sky of a million stars? It flickers, flickers. Who cares when someone's time runs out if a moment is all we are. We're quicker, quicker. Who cares if one more light goes out? Well, I do.`,
+
+  `I say I live in Rosemead, really, I'm at the Ramada. It doesn't really matter, doesn't really, really matter.`,
+
+  `Don't worry baby, it'll be alright. You got the right shoes to get you through the night. It's cold outside, but brightly lit. Skip the subway, let's go to the overground. Get your head out of the mud baby. Put flowers in the mud baby.`,
+
+  `It was the grief of rainy forests and the moan of stormy water; the muffled complaint of driven leaves; the keening - wild and universal - of life for the perishing matter that it inhabits.`,
+
+  `In the English language, swearing is essential to effective communication. Whether you want to succeed in business, school, or social circles, a strong command of vocabulary is absolutely necessary.`,
+
+  `Good games stay within, but at the outer edge, of the player's regime of competence. That is, they feel doable but challenging. This makes them pleasantly frustrating - a flow state for human beings.`,
+
+  `I had a friend who was a heavy drinker. If somebody asked him if he'd been drunk the night before, he would always answer off-handedly, "Oh, I imagine." I've always liked that answer. It acknowledges life as a dream.`,
+
+  `Then suddenly the humour of the situation came into my mind: the thought of the years I had spent in study and toil to get into the future age, and now my passion of anxiety to get out of it.`,
+
+  `I would've told her that Davis and I never talked much, or even looked at each other, but it didn't matter, because we were looking at the same sky together, which is maybe more intimate than eye contact anyway. Anybody can look at you. It's quite rare to find someone who sees the same world you see.`,
+
+  `The development of a living body of literature became indicative of an advanced culture and are always correlated with advances in science, philosophy, theology, and art. Unfortunately the loss of many libraries, such as the Great Library of Alexandria in a civil war in the 3rd century AD, also heralded the loss of many of these irreplaceable texts.`,
+
+  `The rich had been assured of his wealth and comfort, the toiler assured of his life and work. No doubt in that perfect world there had been no unemployed problem, no social question left unsolved.`,
+
+  `Does losing prove that you are weak? Isn't losing difficult for all of you? A challenge where, after ending up on your hands and knees, you must see if you can stand up again. If you stay on your hands and knees, that proves that you are weak.`,
+
+  `Well I woke in mid-afternoon 'cause that's when it all hurts the most. I dream I never know anyone at the party and I'm always the host. If dreams are like movies, then memories are films about ghosts. You can never escape, you can only move south down the coast.`,
+
+  `Music finds a comfortable parallel with that of human language. Much as language has words, sentences, and stories, music has tones, melodies, and songs.`,
+
+  `Starry, starry night, portraits hung in empty halls, frameless heads on nameless walls with eyes that watch the world and can't forget, like the strangers that you've met. The ragged men in ragged clothes, the silver thorn, a bloody rose lie crushed and broken on the virgin snow.`,
+
+  `Give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world... I like it for the same reason many people hate it, because to me it means that power belongs to the people that take it.`,
+
+  `I can buy myself flowers, write my name in the sand. Talk to myself for hours, say things you don't understand. I can take myself dancing and I can hold my own hand. Yeah, I can love me better than you can.`,
+
+  `Your faith was strong but you needed proof. You saw her bathing on the roof. Her beauty in the moonlight overthrew you. She tied you to a kitchen chair, she broke your throne she cut your hair and from your lips she drew the hallelujah.`,
+
+  `All Ninja are men of peace, and must always remain so or lose many of the special powers they have developed. Beyond this, the Ninja are also adept at fieldcraft, infiltrating, and espionage. Because of their scouting skills and peripheral kinesthetic sensitivity, Ninja customarily surprise their opponents slightly more than half the time.`,
+
+  `I don't want tickets, I need you to find me a painting, a classic, been nicked out of Lenny's house. And since you got more feet on the street than coppers on the beat, I'd like you to assist. I'll leave you a little livener. There's a large twenty to get some tongues wagging.`,
+
+  `Personally, I like to think my brother is having a college experience like they do in the movies. I don't mean the big fraternity party kind of movie. More like the movie where the guy meets a smart girl who wears a lot of sweaters and drinks cocoa. They talk about books and issues and kiss in the rain. I think something like that would be very good for him, especially if the girl were unconventionally beautiful. `,
+
+  `In the English language, swearing is essential to effective communication. Whether you want to succeed in business, school, or social circles, a strong command of vocabulary is absolutely necessary.`,
+
+  `Races are not won in the first corner; however, they are often lost there. It's usually best to run as quick as you can for the first few laps, then settle into a comfortable, consistent pace - all the while ready to take advantage of any opportunity to pass. Never turn down an opportunity to pass - you may not get it again.`,
+
+  `This is the end, beautiful friend. This is the end, my only friend - the end of our elaborate plans, the end of everything that stands, the end. No safety or surprise, the end. I'll never look into your eyes, again.`,
+
+  `I've been looking so long at these pictures of you that I almost believe that they're real. I've been living so long with my pictures of you that I almost believe that the pictures are all I can feel.`,
+
+  `Geometry sets out from certain conceptions such as "plane," "point," and "straight line," with which we are able to associate more or less definite ideas, and from certain simple propositions (axioms) which, in virtue of these ideas, we are inclined to accept as "true." Then, on the basis of a logical process, the justification of which we feel ourselves compelled to admit, all remaining propositions are shown to follow from those axioms, i.e. they are proven.`,
+
+  `We live in a charmed world. If we have money we can buy literally everything. And the majority of us live lifestyles undreamed of only a generation or two ago. One scientist I met recently told me he reckoned that the average household in Europe or North America has so many devices and such a variety of food and clothing that to produce the same lifestyle in Roman times would have required six thousand slaves.`,
+
+  `The odds are that you will generally meet the worst of them. The reason is that men who have something going for them in their lives, men who passionately live life with a purpose, are usually too busy living their dreams to hang out "trolling for chicks.`,
+
+  `We go waiting for the stars to come showering down. From Moscow to Mars, universe falling down. You got to look real hard there's a fiery star hidden out there somewhere. Not the satellite of love but a laser shooting out its shiny tongue there.`,
+
+  `The theory of music emphasizes the elements from which music is composed. One such structure is the melody, which is a grouping of musical notes that combine into a basic, but immensely flexible structure. Another is the chord, which is two or more notes played simultaneously to create a harmony.`,
+
+  `We don't get to choose our time. Death is what gives life meaning. To know your days are numbered. Your time is short. You'd think after all this time, I'd be ready. But look at me. Stretching one moment out into a thousand... just so that I can watch the snow.`,
+
+  `Every morning when he'd come to pick you up, I would look forward to it all night long in bed next to you. Those nights when you were actually in the bed. And he would ring the doorbell - I felt like my heart would come out of my chest. He would smile, and we'd talk, and then you would come down the stairs. And I felt probably like someone who was terminally ill and somehow they managed to forget it for a minute. And then it all comes back!`,
 ];
