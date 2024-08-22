@@ -560,4 +560,24 @@ const english = [
   `We don't get to choose our time. Death is what gives life meaning. To know your days are numbered. Your time is short. You'd think after all this time, I'd be ready. But look at me. Stretching one moment out into a thousand... just so that I can watch the snow.`,
 
   `Every morning when he'd come to pick you up, I would look forward to it all night long in bed next to you. Those nights when you were actually in the bed. And he would ring the doorbell - I felt like my heart would come out of my chest. He would smile, and we'd talk, and then you would come down the stairs. And I felt probably like someone who was terminally ill and somehow they managed to forget it for a minute. And then it all comes back!`,
+
+  `You know what I say? I say one down, a couple hundred thousand to go. I don't mean to get on my high horse, but I'm telling you, I do not like the deer. I'm sick of it; they're taking over. They're like rats. They're destroying the ecosystem. I see a dead deer on the side of the road and I think, "That's a start."`,
+
+  `So, I'm tending bar there at Ecklund & Swedlin's last Tuesday and this little guy's drinking and he says, "So where can a guy find some action - I'm goin' crazy down there at the lake." And I says, "What kinda action?" and he says, "Woman action, what do I look like?" And I says, "Well, what do I look like? I don't arrange that kinda thing."`,
+
+  `I always make offers with escape clauses. In real estate, I make an offer with language that details "subject-to" contingencies, such as the approval of a business partner. Never specify who the business partner is. Most people don't know that my partner is my cat.`,
+
+  `Never give up, no matter how far behind you are, no matter how unlikely it seems you will catch your competitor in front of you. Keep pushing until the checkered flag falls. How many times have you seen the leader of a race have a mechanical problem with only a few laps to go? You will never be able to take advantage of their problems if you are not close. You have to be close to take advantage of luck.`,
+
+  `O clear intelligence, force beyond all measure! Gentlemen, I beg you to observe these girls: one has just now lost her mind; the other, it seems, has never had a mind at all.`,
+
+  `Stab a sorry heart with your favorite finger. Paint the whole world blue and stop your tears from stinging. Hear the cavemen singing. Good news they're bringing. Seven seas, swimming them so well. Glad to see my face among them kissing the tortoise shell.`,
+
+  `One day you're in a funk about things, telling a friend that years of evidence point to the conclusion that you will be single for the rest of your life. That night you meet someone, and a year later you're engaged to be married. That this very scenario happened to me is likely of little comfort to those still wondering about their future.`,
+
+  `I built this castle, now we are trapped on the throne. I'm sorry we're alone. I wrote my chapter, you'll turn the page when I'm gone. I hope you'll sing along, this is your song.`,
+
+  `You could not live with your own failure. And where did that bring you? Back to me. I thought by eliminating half of life, the other half would thrive. But you've shown me that's impossible. And as long as there are those that remember what was, there will always be those that are unable to accept what can be. They will resist.`,
+
+  `Samatha is a state in which the mind is brought to rest, focused only on one item and not allowed to wander. When this is done, a deep calm pervades body and mind, a state of tranquility which must be experienced to be understood.`,
 ];
