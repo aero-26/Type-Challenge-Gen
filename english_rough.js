@@ -588,4 +588,28 @@ const texts = [
   `In a hamlet of ten households, there are bound to be those who are my equal in doing their best for others and in being trustworthy in what they say, but they are unlikely to be as eager to learn as I am.`,
 
   `Technique is just a means to an end, and that end is making music without having to think about technique. If you're thinking about technique on the gig, you'll sound that way to the audience. If you're playing from the heart, you'll sound like you're expressing yourself openly.`,
+
+  `In a hamlet of ten households, there are bound to be those who are my equal in doing their best for others and in being trustworthy in what they say, but they are unlikely to be as eager to learn as I am.`,
+
+  `But if in efficient causes it is possible to go on to infinity, there will be no first efficient cause, neither will there be an ultimate effect, nor any intermediate efficient causes; all of which is plainly false. Therefore it is necessary to admit a first efficient cause, to which everyone gives the name of God.`,
+
+  `Historian James C. Cobb has described southern identity as "not a story of continuity versus change, but continuity within change." Grits and fried chicken won't disappear, but perhaps future southerners will enjoy them with a side of rice noodles or enchilada sauce.`,
+
+  `Glancing through the 1977 Atlanta Yellow Pages reveals a city that had yet to be transformed by the proliferation of ethnic food: only ninety-two out of approximately fifteen hundred restaurants could be classified as non-American.`,
+
+  `It was an effect of light: quick sunlight dappling, yellow leaves falling (but from what? Were there even trees on West Fifty-seventh Street?), a shower of gold, spangled, very fast, a falling of the bright. Later I watched for this effect on similar bright days but never again experienced it. I wondered then if it had been a seizure, or stroke of some kind.`,
+
+  `Is it sweeter to exist only in the mind or to exist both in the mind and in reality? Flipping out and wailing on guitars is much sweeter when someone is actually doing it. So when we conceive of the sweetest being ever, we are conceiving of the being that exists both in the mind and in reality.`,
+
+  `Imagine this: Here we are, a plane full of grown human beings, many of us partially educated, and they're actually taking time out to describe the intricate workings of a belt buckle. Well, I ask for clarification at that point. Did you say 'Place the small metal flap into the buckle' or 'Place the buckle over and around the small metal flap'?`,
+
+  `Give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world... I like it for the same reason many people hate it, because to me it means that power belongs to the people that take it.`,
+
+  `Don't make assumptions - find the courage to ask questions and to express what you really want. Communicate with others as clearly as you can to avoid misunderstandings, sadness and drama. With just this one agreement, you can completely transform your life.`,
+
+  `Under the lights when everything goes. Nowhere to hide when I'm getting you close when we move, well, you already know.`,
+
+  `As much money and life as you could want! The two things most human beings would choose above all - the trouble is, humans do have a knack of choosing precisely those things that are worst for them.`,
+
+  `A half-moon glowed on smooth granite boulders, turning them silver. The silence was broken only by the ripple of water from the swift black river and the whisper of trees in the forest beyond. There was a stirring in the shadows, and from all around lithe dark shapes crept stealthily over the rocks. Unsheathed claws glinted in the moonlight. Wary eyes flashed like amber. And then, as if on a silent signal, the creatures leapt at each other, and suddenly the rocks were alive with wrestling, screeching cats.`,
 ];
