@@ -612,4 +612,15 @@ const texts = [
   `As much money and life as you could want! The two things most human beings would choose above all - the trouble is, humans do have a knack of choosing precisely those things that are worst for them.`,
 
   `A half-moon glowed on smooth granite boulders, turning them silver. The silence was broken only by the ripple of water from the swift black river and the whisper of trees in the forest beyond. There was a stirring in the shadows, and from all around lithe dark shapes crept stealthily over the rocks. Unsheathed claws glinted in the moonlight. Wary eyes flashed like amber. And then, as if on a silent signal, the creatures leapt at each other, and suddenly the rocks were alive with wrestling, screeching cats.`,
+
+  `They knew they were privileged to have these choices, but they also knew the stakes were high. These people were asking the big questions: How do I find meaning in my life? Should I have children? What is the most meaningful way to connect with other people? How should I balance my work life with my personal life (and is there a distinction anymore)?`,
+
+  `For students at Chemawa, garage rock remained just as accessible (to perform and to attend) as it had been in the home communities from which they hailed. Garage bands had already formed in villages before the students knew they were coming to Chemawa, and when students who had played together arrived at school in Oregon, forming a modified version of their village band was natural. By remaining a constant activity even when the students' living environments had been radically altered, the garage band became an instrument of stability, tempering homesickness and facilitating social bonds - both new and old - between students.`,
+
+  `It's close to midnight and something evil's lurking in the dark under the moonlight. You see a sight that almost stops your heart. You try to scream but terror takes the sound before you make it.`,
+
+  `But what many people who have never formed a corporation don't know is that a corporation is not really a thing. A corporation is merely a file folder with some legal documents in it, sitting in some attorney's office and registered with a state government agency. It's not a big building or a factory or a group of people.`,
+
+  `My wife was... very nice. A wonderful, warm woman. And then one day, she turned into this amazing creature who could sit on the end of a broomstick and take off into the air. She could actually achieve flight.
+`,
 ];
