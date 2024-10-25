@@ -623,4 +623,19 @@ const texts = [
 
   `My wife was... very nice. A wonderful, warm woman. And then one day, she turned into this amazing creature who could sit on the end of a broomstick and take off into the air. She could actually achieve flight.
 `,
+
+  `I did my best, it wasn't much. I couldn't feel, so I tried to touch. I've told the truth, I didn't come to fool you. And even though it all went wrong I'll stand before the Lord of Song with nothing on my tongue but hallelujah.
+`,
+
+  `As customers of all races, nationalities, and cultures visit the Dekalb Farmers Market by the thousands, I doubt that many stand in awe and contemplate the meaning of its existence. But in the capital of the Sunbelt South, the quiet revolution of immigration and food continues to upset and redefine the meanings of local, regional, and global identity.
+`,
+
+  `They say that right after God created man, he took a rib from him and made a chick. That's actually a bit of a creation myth - the truth is, after God saw that man was good, he created another man and saw that it was all good.
+`,
+
+  `The theory of music emphasizes the elements from which music is composed. One such structure is the melody, which is a grouping of musical notes that combine into a basic, but immensely flexible structure. Another is the chord, which is two or more notes played simultaneously to create a harmony.
+`,
+
+  `You and I can share the silence, finding comfort together the way old friends do. And after fights and words of violence, we make up with each other the way old friends do. Times of joy and times of sorrow, we will always see it through. Oh, I don't care what comes tomorrow, we can face it together the way old friends do.
+`,
 ];
