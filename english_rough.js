@@ -638,4 +638,14 @@ const texts = [
 
   `You and I can share the silence, finding comfort together the way old friends do. And after fights and words of violence, we make up with each other the way old friends do. Times of joy and times of sorrow, we will always see it through. Oh, I don't care what comes tomorrow, we can face it together the way old friends do.
 `,
+`They knew they were privileged to have these choices, but they also knew the stakes were high. These people were asking the big questions: How do I find meaning in my life? Should I have children? What is the most meaningful way to connect with other people? How should I balance my work life with my personal life (and is there a distinction anymore)?`
+,
+`Dawn is a feeling, a beautiful ceiling. The smell of grass just makes you pass into a dream. You're here today, no future fears. This day will last a thousand years if you want it to. You look around you, things they astound you. So breathe in deep, you're not asleep. Open your mind.
+`,
+`Starry, starry night, portraits hung in empty halls, frameless heads on nameless walls with eyes that watch the world and can't forget, like the strangers that you've met. The ragged men in ragged clothes, the silver thorn, a bloody rose lie crushed and broken on the virgin snow.`
+,
+`You may not yet be at a point where you have fully recovered your power or all of your memories... But courage need not be remembered... For it is never forgotten.`
+,
+`In the late 1960s, a growing number of people became concerned about the growing problems of pollution and the destruction of natural habitats. This movement led to the formation of groups like the Environmental Protection Agency (EPA). The primary goal of the environmental movement as a whole is to make sure that the environment is safe and intact for future generations to enjoy.`
+,
 ];
