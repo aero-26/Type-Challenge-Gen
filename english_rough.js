@@ -638,4 +638,7 @@ const texts = [
 
   `You and I can share the silence, finding comfort together the way old friends do. And after fights and words of violence, we make up with each other the way old friends do. Times of joy and times of sorrow, we will always see it through. Oh, I don't care what comes tomorrow, we can face it together the way old friends do.
 `,
+
+  `Franky Four Fingers: "I have stones to sell, fat to chew, and many different men to see about many different ducks, so if I am not rushing you..." Doug the Head: "Slow down, Franky, my son. When in Rome..." Franky: "I am not in Rome, Doug. I am in a rush."
+`,
 ];
